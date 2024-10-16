@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChickenOrder/static/css/main.35a33607.css",
+    "main.js": "/ChickenOrder/static/js/main.26ff9387.js",
+    "index.html": "/ChickenOrder/index.html",
+    "main.35a33607.css.map": "/ChickenOrder/static/css/main.35a33607.css.map",
+    "main.26ff9387.js.map": "/ChickenOrder/static/js/main.26ff9387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a33607.css",
+    "static/js/main.26ff9387.js"
+  ]
+}
